@@ -1,2 +1,2 @@
 # coba
-latihan merge di GitHub Dicoding
+latihan merge di GitHub Dicoding asyik
