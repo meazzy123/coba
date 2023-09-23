@@ -1,2 +1,2 @@
 # coba
-latihan merge
+latihan merge di GitHub
